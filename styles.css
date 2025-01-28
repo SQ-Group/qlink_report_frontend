@@ -1,0 +1,12 @@
+a {
+  display: block; /* Make the <a> behave like a block-level element */
+  text-decoration: none; /* Optional: removes underline */
+}
+
+.report-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  padding: 20px;
+}
